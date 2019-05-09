@@ -209,4 +209,3 @@ export default class Match {
     return `${scoreInSets} ${scoreInCurrentGame}`
   } 
 }
-
