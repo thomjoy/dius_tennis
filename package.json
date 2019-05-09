@@ -1,0 +1,17 @@
+{
+  "name": "dius_tennis",
+  "version": "1.0.0",
+  "description": "DiUS is hosting a tennis tournament. To aid with this, we're developing a scoring system...",
+  "main": "Match.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "babel-jest": "^24.8.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^24.8.0"
+  }
+}
